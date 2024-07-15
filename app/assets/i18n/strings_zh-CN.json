@@ -74,7 +74,7 @@
       "link": "通过链接分享"
     },
     "sendModeHelp": "解释",
-    "help": "请确保目标连接的是同一个 Wi‑Fi 网络",
+    "help": "请确保和目标连接同一个 Wi-Fi 网络",
     "placeItems": "列出要分享的文件"
   },
   "settingsTab": {
@@ -227,7 +227,7 @@
     "noRequests": "尚无请求。",
     "encryption": "@:settingsTab.network.encryption",
     "autoAccept": "自动接受请求",
-    "requirePin": "需要一个 PIN",
+    "requirePin": "接收需要 PIN 密码",
     "pinHint": "PIN 为 “{pin}”",
     "encryptionHint": "LocalSend 使用自签名证书。您需要在浏览器中允许它。",
     "pendingRequests": "待处理请求：{n}"
@@ -314,7 +314,7 @@
       "橙子",
       "木瓜",
       "桃子",
-      "梨",
+      "梨子",
       "菠萝",
       "土豆",
       "南瓜",
@@ -420,7 +420,7 @@
       "content": "自动接受所有文件传输请求。请注意，这会让此网络中的所有人都可以向你发送文件。"
     },
     "pin": {
-      "title": "输入 PIN"
+      "title": "输入 PIN 密码"
     },
     "sendModeHelp": {
       "title": "发送模式",
